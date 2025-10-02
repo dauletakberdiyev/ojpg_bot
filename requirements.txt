@@ -1,6 +1,5 @@
-python-telegram-bot==20.7
-supabase==2.3.4
-openai==1.6.1
-asyncpg==0.29.0
+python-telegram-bot==21.5
+supabase==2.7.4
+openai==1.51.0
 python-dotenv==1.0.0
-httpx
+websockets==13.0
